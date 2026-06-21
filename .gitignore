@@ -1,5 +1,4 @@
 .venv
-backend/
 .__pycache__
 .env.example
 scrappers/
