@@ -1,0 +1,7 @@
+.venv
+backend/
+.__pycache__
+.env.example
+scrappers/
+.__pycache__
+.__init__.py
